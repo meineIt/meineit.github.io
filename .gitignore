@@ -1,1 +1,23 @@
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+Spotlight-V100
+.Trashes
+
+# Apps and editors
+.idea/
+.vscode/
+
+# Xcode
+xcuserdata/
+*.xcodeproj/
+*.xcworkspace
+
+# Temporary files
+Thumbs.db
+ehthumbs.db
+*.bak
+*.swp
+*.swo
+*.swn

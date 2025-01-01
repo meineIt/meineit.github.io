@@ -42,6 +42,7 @@ The project showcases the following features:
 
 ## Project Structure
 
+```
 project/
 ├── index.html         
 ├── README.md          
@@ -54,6 +55,7 @@ project/
 │   │   └── phone.webp 
 │   ├── videos/        
 │   │   └── excursion.mp4 
+```
 
 ---
 
