@@ -43,18 +43,18 @@ The project showcases the following features:
 ## Project Structure
 
 project/
-├── index.html
-├── README.md
-├── .gitignore
-├── README.md
-├── css
-    ├── style.css
-├── resources
-    ├── images
-        ├── Camp Image.webp
-        ├── Phone 64x108.webp
-    ├── videos
-        ├── Excursion Video.mp4
+├── index.html         
+├── README.md          
+├── .gitignore          
+├── css/               
+│   └── style.css      
+├── resources/         
+│   ├── images/        
+│   │   ├── camp.webp  
+│   │   └── phone.webp 
+│   ├── videos/        
+│   │   └── excursion.mp4 
+
 ---
 
 ## License
