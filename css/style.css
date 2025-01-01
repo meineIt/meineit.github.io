@@ -36,3 +36,11 @@ body {
     font-size: 16px;
     color: rgb(0, 224, 220);  
 }
+
+.bottom_text {
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: right;
+    color: rgb(189, 189, 189);  
+}
