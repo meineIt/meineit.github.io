@@ -51,10 +51,10 @@ project/
 │   └── style.css      
 ├── resources/         
 │   ├── images/        
-│   │   ├── camp.webp  
+│   │   ├── camping.webp  
 │   │   └── phone.webp 
 │   ├── videos/        
-│   │   └── excursion.mp4 
+│   │   └── video.mp4 
 ```
 
 ---
